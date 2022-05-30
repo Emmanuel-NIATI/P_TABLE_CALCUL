@@ -3,25 +3,25 @@ package test;
 public class TestTable
 {
 
-	// Procédure case +
+	// Procï¿½dure case +
 	public static void casePlus()
 	{
 		System.out.print(" + |");
 	}
 	
-	// Procédure case soulignée
+	// Procï¿½dure case soulignï¿½e
 	public static void caseSoulignee()
 	{
 		System.out.print("---+");
 	}
 	
-	// Procédure case x
+	// Procï¿½dure case x
 	public static void caseFois()
 	{
 		System.out.print(" x |");
 	}
 	
-	// Procédure case d'un entier (de 0 à 100)
+	// Procï¿½dure case d'un entier (de 0 ï¿½ 100)
 	public static void caseInt(int i)
 	{
 		
@@ -40,13 +40,14 @@ public class TestTable
 
 	}
 		
-	// Procédure retour à la ligne
+	// Procï¿½dure retour ï¿½ la ligne
 	public static void retourLigne()
 	{
 		System.out.print("\n");
 	}
 	
-	// Procédure principale
+	// Procï¿½dure principale
+	// main
 	public static void main(String[] args)
 	{
 		
