@@ -47,7 +47,6 @@ public class TestTable
 	}
 	
 	// Proc�dure principale
-	// main
 	public static void main(String[] args)
 	{
 		
