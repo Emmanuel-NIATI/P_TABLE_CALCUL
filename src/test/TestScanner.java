@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TestScanner
 {
 	
-	// Procédure sortie console
+	// ProcÃ©dure sortie console
 	public static void console(String ligne)
 	{
 		
@@ -13,7 +13,7 @@ public class TestScanner
 		
 	}
 
-	// Procédure sortie error
+	// ProcÃ©dure sortie error
 	public static void error(String ligne)
 	{
 		
@@ -23,7 +23,7 @@ public class TestScanner
 	
 	
 	
-	// Procédure principale
+	// ProcÃ©dure principale
 	public static void main(String[] args)
 	{
 
@@ -47,7 +47,7 @@ public class TestScanner
 		int r = un + deux;
 		
 		
-		console("Le résultat est : " + r );
+		console("Le rÃ©sultat est : " + r );
 		
 	}
 
